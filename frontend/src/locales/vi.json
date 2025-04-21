@@ -149,7 +149,7 @@
       },
       "noCondition": {
         "title": "Không thể chẩn đoán",
-        "description": "Rất tiếc, hệ thống AI của chúng tôi không thể chẩn đoán bệnh da từ hình ảnh này. Vui lòng thử lại với hình ảnh khác hoặc liên hệ với bác sĩ chuyên khoa da liễu.",
+        "description": "Rất tiếc, hệ thống AI của chúng tôi không thể chẩn đoán bệnh da từ hình ảnh này hoặc đây không phải là hình ảnh liên quan đến bệnh da liễu. Vui lòng thử lại với hình ảnh khác hoặc liên hệ với bác sĩ chuyên khoa da liễu.",
         "button": "Tải ảnh khác"
       }
     },
